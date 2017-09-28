@@ -1,8 +1,9 @@
 #include<stdio.h>
 void main(){
 	int a,b,c;
+	char name="";
 	a=0;
 	b=1;
 	c=a+b;
-	printf("c��ֵΪ��%i",c);
+	printf("cµÄÖµÎª£º%i",c);
 }
