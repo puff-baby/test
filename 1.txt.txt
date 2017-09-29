@@ -1,10 +1,14 @@
 ﻿#include<stdio.h>
 void main(){
 	int a,b,c;
-	char name="";
 	a=0;
 	b=1;
 	c=a+b;
+<<<<<<< HEAD
 dafasdfasdfa；
 	printf("cµÄÖµÎª£º%i",c);
 }
+=======
+	printf("c��ֵΪ��%i",c);
+}
+>>>>>>> parent of 69e1e62... Update 1.txt.txt
